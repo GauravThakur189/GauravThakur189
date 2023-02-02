@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GauravThakur189
-- 👀 I’m interested in WEB DEVELOPMENT
+- 👀 I’m interested in WEB DEVELOPMENT using MERN
 - 🌱 I’m currently learning REACT JS
 - 💞️ I’m looking to collaborate on FOR INTERNSHIP
 - 📫 How to reach me gauravsingh1892000@gmail.com
