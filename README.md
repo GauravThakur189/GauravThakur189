@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GauravThakur189
-- 👀 I’m interested in WEB DEVELOPMENT using MERN
+- 👋 Hi, I’m Gaurav Singh
+- 👀 I’m interested in BACKEND DEVELOPMENT
 - 🌱 I’m currently learning REACT JS
 - 💞️ I’m looking to collaborate on FOR INTERNSHIP and FOR JOB
-- 📫 How to reach me gauravsingh1892000@gmail.com,rajanthakur1890@gmail.com
+- 📫 How to reach me gauravsingh1892000@gmail.com,gaurav18059@gmail.com
 
 <!---
 GauravThakur189/GauravThakur189 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
