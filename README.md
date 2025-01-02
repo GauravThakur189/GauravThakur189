@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gaurav Singh
-- 👀 I’m interested in BACKEND DEVELOPMENT
-- 🌱 I’m currently learning REACT JS
+- 👀 I’m interested in FRONTEND DEVELOPMENT,FULLSTACK DEVELOPMENT
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on FOR INTERNSHIP and FOR JOB
 - 📫 How to reach me gauravsingh1892000@gmail.com,gaurav18059@gmail.com
 
